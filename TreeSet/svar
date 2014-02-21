@@ -1,0 +1,3 @@
+O(log n) för båda.
+
+Grejen är den att med de slumpmässiga prioriteterna så blir höjden på trädet sannolikt proportionellt till log n värden i trädet.
